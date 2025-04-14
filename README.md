@@ -1,7 +1,7 @@
 # Chat-App
 Keylogger 
 
-kartikmehta8/pyKeylogger
+PATH: kartikmehta8/pyKeylogger
 - Send to Server (Twilio)
 - keylogs
 - system info
@@ -9,7 +9,7 @@ kartikmehta8/pyKeylogger
 - screenshot
 - audio
 
-quitehacker/Advanced-Keylogger-with-Webcam-and-Microphone-Spy
+PATH: quitehacker/Advanced-Keylogger-with-Webcam-and-Microphone-Spy
 - send to email
 - keylogs
 - clipboard
@@ -19,7 +19,7 @@ quitehacker/Advanced-Keylogger-with-Webcam-and-Microphone-Spy
 - Network/Wifi Info
 - Browser History
   
-davidbombal/python-keylogger
+PATH: davidbombal/python-keylogger
 - sent to server
 - keylogs
 
